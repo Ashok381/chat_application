@@ -161,6 +161,7 @@ java chatapplication.GUIchat
 
 *Ashok Samrat*
 Computer Science Student
+<img width="1509" height="478" alt="Screenshot 2026-03-26 012603" src="https://github.com/user-attachments/assets/0d88d0d4-42be-48f7-8e31-bdc586da590d" />
 
 ---
 
