@@ -159,7 +159,7 @@ java chatapplication.GUIchat
 
 ## 👤 Author
 
-**Ashok Samrat (Babu)**
+*Ashok Samrat*
 Computer Science Student
 
 ---
