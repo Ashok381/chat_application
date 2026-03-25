@@ -6,13 +6,13 @@ import java.sql.DriverManager;
 public class Dbconnection {
 
     private static final String URL =
-            "jdbc:mysql://localhost:3306/chatdata";
-    private static final String USER = "root";
-    private static final String PASSWORD = "ashok7061@";
+            "my_sql_jdbc_url";
+    private static final String USER = "your_username";
+    private static final String PASSWORD = "your_pass";
 
     public static Connection getConnection() throws Exception {
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");    // used to load driver manager of JdbC
+            Class.forName("com.mysql.cj.jdbc.Driver");  
             return DriverManager.getConnection(URL, USER, PASSWORD);
         }
         catch (Exception e ){
